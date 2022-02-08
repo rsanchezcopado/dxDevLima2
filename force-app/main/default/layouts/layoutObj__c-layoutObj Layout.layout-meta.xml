@@ -12,11 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>rsp_field_1__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>rsp_field_2__c</field>
+                <field>KompalCustomFIeld1__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
