@@ -64,7 +64,6 @@
     </dashboardGridLayout>
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <runningUser>test-wimqs10syb6u@example.com</runningUser>
     <textColor>#000000</textColor>
     <title>kh dashboard parent folder</title>
     <titleColor>#000000</titleColor>
