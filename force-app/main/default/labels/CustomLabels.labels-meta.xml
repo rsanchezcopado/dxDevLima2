@@ -9,6 +9,13 @@
         <value>test german</value>
     </labels>
     <labels>
+        <fullName>Shivangi_testlabel1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Shivangi.testlabel1</shortDescription>
+        <value>testing</value>
+    </labels>
+    <labels>
         <fullName>kompalComplTnsl</fullName>
         <categories>testing translation</categories>
         <language>en_US</language>
@@ -23,6 +30,14 @@
         <protected>true</protected>
         <shortDescription>kompalDestr1</shortDescription>
         <value>ddfdfdf</value>
+    </labels>
+    <labels>
+        <fullName>kompalLabel4feb</fullName>
+        <categories>test de</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>kompalLabel4feb</shortDescription>
+        <value>custom label comit</value>
     </labels>
     <labels>
         <fullName>kompalSpecial</fullName>
