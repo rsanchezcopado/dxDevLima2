@@ -9,6 +9,13 @@
         <value>custom label comit</value>
     </labels>
     <labels>
+        <fullName>rsp_label1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>rsp_label1</shortDescription>
+        <value>rsp_label1</value>
+    </labels>
+    <labels>
         <fullName>v52_label</fullName>
         <language>en_US</language>
         <protected>true</protected>
