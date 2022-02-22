@@ -16,6 +16,13 @@
         <value>custom label comit</value>
     </labels>
     <labels>
+        <fullName>rsp_label2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>rsp_label2</shortDescription>
+        <value>rsp_label2</value>
+    </labels>
+    <labels>
         <fullName>v52_label</fullName>
         <language>en_US</language>
         <protected>true</protected>
