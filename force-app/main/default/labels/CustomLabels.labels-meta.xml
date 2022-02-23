@@ -9,6 +9,13 @@
         <value>custom label comit</value>
     </labels>
     <labels>
+        <fullName>label3_23rd</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label3_23rd</shortDescription>
+        <value>double check</value>
+    </labels>
+    <labels>
         <fullName>label_23_1</fullName>
         <language>en_US</language>
         <protected>true</protected>
