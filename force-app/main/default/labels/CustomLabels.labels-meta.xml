@@ -35,4 +35,11 @@
         <shortDescription>my3</shortDescription>
         <value>3</value>
     </labels>
+    <labels>
+        <fullName>rsp_label_3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>rsp_label_3</shortDescription>
+        <value>rsp_label_3</value>
+    </labels>
 </CustomLabels>
