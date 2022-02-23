@@ -21,4 +21,11 @@
         <shortDescription>label_23_1</shortDescription>
         <value>tsting</value>
     </labels>
+    <labels>
+        <fullName>my2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>my2</shortDescription>
+        <value>2</value>
+    </labels>
 </CustomLabels>
