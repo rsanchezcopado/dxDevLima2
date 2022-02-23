@@ -1,91 +1,88 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
-        <label></label>
+        <label/>
         <name>KompalCustom2</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label/>
         <name>Shivangi_testlabel1</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label/>
         <name>kompalComplTnsl</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label/>
         <name>kompalDestr1</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label/>
         <name>kompalLabel4feb</name>
     </customLabels>
     <customLabels>
-        <label></label>
+        <label/>
         <name>kompalSpecial</name>
     </customLabels>
-    <customLabels>
-        <label></label>
-        <name>v52_label</name>
-    </customLabels>
+    
     <customTabs>
-        <label></label>
+        <label/>
         <name>shivangi_flexi_page</name>
     </customTabs>
     <quickActions>
-        <label></label>
+        <label/>
         <name>LogACall</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>NewAccount</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>NewCase</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>NewContact</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>NewEvent</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>NewGroup</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>NewLead</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>NewNote</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>NewOpportunity</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>NewTask</name>
     </quickActions>
     <quickActions>
-        <label></label>
+        <label/>
         <name>SendEmail</name>
     </quickActions>
     <reportTypes>
-        <description></description>
-        <label></label>
+        <description/>
+        <label/>
         <name>screen_flows_prebuilt_crt</name>
         <sections>
-            <label></label>
+            <label/>
             <name>Flow Interview Log Entries</name>
         </sections>
         <sections>
-            <label></label>
+            <label/>
             <name>Flow Interview Logs</name>
         </sections>
     </reportTypes>
