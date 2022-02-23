@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>v52_label</fullName>
+        <fullName>label_23_1</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>v52 label</shortDescription>
-        <value>123</value>
+        <shortDescription>label_23_1</shortDescription>
+        <value>tsting</value>
+    </labels>
+    <labels>
+        <fullName>label3_23rd</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>label3_23rd</shortDescription>
+        <value>double check</value>
     </labels>
 </CustomLabels>
