@@ -15,6 +15,17 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/shiva_new_template_1643356119326</template>
     </alerts>
+    <alerts>
+        <fullName>TestEmailAlert</fullName>
+        <description>TestEmailAlert</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>{!Environment.username}</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>kh_testFolder_1/kh_testTemplateHTMLLetterhead</template>
+    </alerts>
     <fieldUpdates>
         <fullName>Test</fullName>
         <field>BillingCountry</field>
@@ -43,7 +54,7 @@
         <fields>BillingCity</fields>
         <fields>Id</fields>
         <includeSessionId>false</includeSessionId>
-        <integrationUser>test-wimqs10syb6u@example.com</integrationUser>
+        <integrationUser>{!Environment.username}</integrationUser>
         <name>Test</name>
         <protected>false</protected>
         <useDeadLetterQueue>false</useDeadLetterQueue>
@@ -84,9 +95,23 @@
         </criteriaItems>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
     </rules>
+    <rules>
+        <fullName>vgTest</fullName>
+        <actions>
+            <name>TestEmailAlert</name>
+            <type>Alert</type>
+        </actions>
+        <active>false</active>
+        <criteriaItems>
+            <field>Account.Name</field>
+            <operation>contains</operation>
+            <value>Test</value>
+        </criteriaItems>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
     <tasks>
         <fullName>Test</fullName>
-        <assignedTo>test-wimqs10syb6u@example.com</assignedTo>
+        <assignedTo>{!Environment.username}</assignedTo>
         <assignedToType>user</assignedToType>
         <dueDateOffset>10</dueDateOffset>
         <notifyAssignee>false</notifyAssignee>
