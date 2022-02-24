@@ -1,6 +1,7 @@
 public class MCDXCommit {
 
-public static void printSampleMessage(String message) {
-    System.debug('Check MCDX Commit');
-}
+public static Decimal FahrenheitToCelsius(Decimal fh) {
+        Decimal cs = (fh - 32) * 5/9;
+        return cs.setScale(2);
+    }
 }
