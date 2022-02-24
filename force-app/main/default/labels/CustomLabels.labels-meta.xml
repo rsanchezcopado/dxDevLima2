@@ -23,6 +23,20 @@
         <value>tsting</value>
     </labels>
     <labels>
+        <fullName>my2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>my2</shortDescription>
+        <value>2</value>
+    </labels>
+    <labels>
+        <fullName>my3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>my3</shortDescription>
+        <value>3</value>
+    </labels>
+    <labels>
         <fullName>rsp_label1</fullName>
         <language>en_US</language>
         <protected>true</protected>
