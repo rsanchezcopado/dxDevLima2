@@ -185,6 +185,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DemoCustomObject__c.SecondCustomField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>KompalCustom22Feb__c.KompalField22feb__c</field>
         <readable>true</readable>
     </fieldPermissions>
