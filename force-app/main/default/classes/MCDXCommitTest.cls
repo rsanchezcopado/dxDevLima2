@@ -5,7 +5,7 @@ private class MCDXCommitTest {
         System.assertEquals(21.11,celsius);
     }
     @isTest static void testFreezingPoint() {
-        Decimal celsius = MCDXCommit.FahrenheitToCelsius(32);
+        Decimal celsius = MCDXCommit.FahrenheitToCelsius(33);
         System.assertEquals(0,celsius);
     }
     @isTest static void testBoilingPoint() {
