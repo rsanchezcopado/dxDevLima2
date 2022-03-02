@@ -160,7 +160,7 @@
         <label>rsp_custom_object Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>rsp_custom_object</pluralLabel>
+    <pluralLabel>rsp_custom_objects</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
