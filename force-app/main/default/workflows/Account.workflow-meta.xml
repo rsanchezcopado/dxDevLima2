@@ -86,20 +86,6 @@
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
     </rules>
     <rules>
-        <fullName>WorkflowRuleTest</fullName>
-        <actions>
-            <name>test</name>
-            <type>Task</type>
-        </actions>
-        <active>false</active>
-        <criteriaItems>
-            <field>Account.Name</field>
-            <operation>contains</operation>
-            <value>Test</value>
-        </criteriaItems>
-        <triggerType>onCreateOrTriggeringUpdate</triggerType>
-    </rules>
-    <rules>
         <fullName>rsp_rule_account</fullName>
         <active>false</active>
         <criteriaItems>
@@ -114,6 +100,20 @@
         <actions>
             <name>TestEmailAlert</name>
             <type>Alert</type>
+        </actions>
+        <active>false</active>
+        <criteriaItems>
+            <field>Account.Name</field>
+            <operation>contains</operation>
+            <value>Test</value>
+        </criteriaItems>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
+    <rules>
+        <fullName>WorkflowRuleTest</fullName>
+        <actions>
+            <name>test</name>
+            <type>Task</type>
         </actions>
         <active>false</active>
         <criteriaItems>
